@@ -1,5 +1,8 @@
 == README
 
+This is actual app developed  by Ruby on Rails Tutorial author Michael Hartl
+https://immense-gorge-1462.herokuapp.com/
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
